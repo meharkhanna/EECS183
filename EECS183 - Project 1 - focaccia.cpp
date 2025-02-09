@@ -2,8 +2,6 @@
  * focaccia.cpp
  * Project UID: d435ced1b1ee1e06372665b53322301c67d2d4a0
  *
- * Mehar Khanna
- * meharkha
  *
  * EECS 183: Project 1
  * Fall 2024
